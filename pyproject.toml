@@ -1,0 +1,23 @@
+[project]
+name = "neural-networks-and-deep-learning"
+version = "0.1.0"
+description = "Code samples for \"Neural Networks and Deep Learning\""
+authors = [
+    {name = "Fred Fierling",email = "fff@spukhafte.net"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8,<3.11"
+package-mode = false
+dependencies = [
+    "numpy (<1.22)",
+    "matplotlib (<4.0)",
+    "scikit-learn (<1.1)",
+    "scipy (<2.0)",
+    "theano (>=1.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

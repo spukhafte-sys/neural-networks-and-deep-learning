@@ -1,6 +1,6 @@
 ## This fork is made to work with the latest python versions (3.8.x to 3.10.x)
 
-This is a fork of [Michael Nielsen](https://github.com/mnielsen/neural-networks-and-deep-learning) repository and is meant to be updated with the latest python and dependency versions. Most things have been updated and currently work. Any help is appreciated and if you spotted any problems, please open an issue and/or a PR.
+This is a fork of [unexploredtest](https://github.com/unexploredtest/neural-networks-and-deep-learning)'s fork of [Michael Nielsen](https://github.com/mnielsen/neural-networks-and-deep-learning) repository. It uses poetry to manage dependencies and updates to use more recent versions of python and various libraries. Most things have been updated and currently work. Any help is appreciated and if you spotted any problems, please open an issue and/or a PR.
 
 # Code samples for "Neural Networks and Deep Learning"
 
@@ -20,6 +20,8 @@ of the library.  I will not be making such modifications.
 As the code is written to accompany the book, I don't intend to add
 new features. However, bug reports are welcome, and you should feel
 free to fork and modify the code.
+
+# Installation
 
 ## License
 
