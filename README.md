@@ -22,6 +22,14 @@ new features. However, bug reports are welcome, and you should feel
 free to fork and modify the code.
 
 # Installation
+```
+git clone https://github.com/spukhafte-sys/neural-networks-and-deep-learning.git
+cd neural-networks-and-deep-learning
+poetry install --no-root
+poetry env use 3.10
+cd src
+poetry run python example_0.py
+```
 
 ## License
 
